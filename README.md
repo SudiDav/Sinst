@@ -1,3 +1,3 @@
 ============Sinst===========
 
-This is a coimpiler in C#
+This is a compiler in C#
